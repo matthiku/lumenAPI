@@ -1,0 +1,1003 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"co",
+				"$courses〔variable〕"
+			],
+			[
+				"p",
+				"profession"
+			],
+			[
+				"re",
+				"$request〔variable〕"
+			],
+			[
+				"res",
+				"$result〔variable〕"
+			],
+			[
+				"fun",
+				"function〔keyword〕"
+			],
+			[
+				"H",
+				"Http〔namespace〕"
+			],
+			[
+				"te",
+				"$teacher〔variable〕"
+			],
+			[
+				"th",
+				"$this〔variable〕"
+			],
+			[
+				"c",
+				"$course〔variable〕"
+			],
+			[
+				"tr",
+				"truncate"
+			],
+			[
+				"arr",
+				"array_rand〔function〕"
+			],
+			[
+				"mt",
+				"mt_rand"
+			],
+			[
+				"el",
+				"elementArray"
+			],
+			[
+				"pag",
+				"paginateFilter〔argument〕"
+			],
+			[
+				"ge",
+				"genreName"
+			],
+			[
+				"m",
+				"margin-bottom"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"l",
+				"length"
+			],
+			[
+				"mov",
+				"movieList"
+			],
+			[
+				"mo",
+				"movieAPIs"
+			],
+			[
+				"g",
+				"glyphicon"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"pa",
+				"pagination"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"bo",
+				"bower_components"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"ov",
+				"overflow"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"f",
+				"filter"
+			],
+			[
+				"ta",
+				"taskList"
+			],
+			[
+				"n",
+				"newTask"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"it",
+				"$items〔variable〕"
+			],
+			[
+				"Sch",
+				"Schema::create('art"
+			],
+			[
+				"tab",
+				"tabpanel"
+			],
+			[
+				"has",
+				"hasOne"
+			],
+			[
+				"pl",
+				"$plan〔variable〕"
+			],
+			[
+				"Pl",
+				"PlanController"
+			],
+			[
+				"lik",
+				"likes"
+			],
+			[
+				"Lik",
+				"Likeable〔namespace〕"
+			],
+			[
+				"st",
+				"$statusId〔variable〕"
+			],
+			[
+				"get_",
+				"get_class〔function〕"
+			],
+			[
+				"wh",
+				"where"
+			],
+			[
+				"Chatty",
+				"Chatty\\Models\\Status"
+			],
+			[
+				"rep",
+				"$reply〔variable〕"
+			],
+			[
+				"Cha",
+				"Chatty\\Models\\User"
+			],
+			[
+				"isNot",
+				"isNull〔function〕"
+			],
+			[
+				"req",
+				"required|max:1000"
+			],
+			[
+				"Ch",
+				"Chatty\\Models\\User"
+			],
+			[
+				"u",
+				"$username〔variable〕"
+			],
+			[
+				"us",
+				"username"
+			],
+			[
+				"frie",
+				"friendRequests"
+			],
+			[
+				"w",
+				"wherePivot〔function〕"
+			],
+			[
+				"frien",
+				"friendsOfMine〔function〕"
+			],
+			[
+				"fr",
+				"$friends〔variable〕"
+			],
+			[
+				"fri",
+				"$friendsList〔variable〕"
+			],
+			[
+				"user",
+				"user_id"
+			],
+			[
+				"Mo",
+				"Models"
+			],
+			[
+				"lo",
+				"location"
+			],
+			[
+				"la",
+				"last_name"
+			],
+			[
+				"fir",
+				"first_name"
+			],
+			[
+				"Auth",
+				"Auth::user"
+			],
+			[
+				"r",
+				"route〔function〕"
+			],
+			[
+				"We",
+				"WelcomeController@index"
+			],
+			[
+				"M",
+				"Maker::all"
+			],
+			[
+				"err",
+				"$errorText〔variable〕"
+			],
+			[
+				"fa",
+				"$fails〔variable〕"
+			],
+			[
+				"R",
+				"Routing〔namespace〕"
+			],
+			[
+				"C",
+				"Contracts〔namespace〕"
+			],
+			[
+				"ve",
+				"$vehicleId〔variable〕"
+			],
+			[
+				"veh",
+				"vehicle"
+			],
+			[
+				"v",
+				"$vehicles〔variable〕"
+			],
+			[
+				"var",
+				"var_dump〔function〕"
+			],
+			[
+				"sp",
+				"speed"
+			],
+			[
+				"vehic",
+				"vehicleId"
+			],
+			[
+				"ret",
+				"return〔keyword〕"
+			],
+			[
+				"ma",
+				"$maker〔variable〕"
+			],
+			[
+				"A",
+				"App〔namespace〕"
+			],
+			[
+				"mak",
+				"maker_id"
+			],
+			[
+				"num",
+				"numberBetween〔function〕"
+			],
+			[
+				"ran",
+				"randomNumber〔function〕"
+			],
+			[
+				"Fa",
+				"Faker"
+			],
+			[
+				"pub",
+				"public_path〔function〕"
+			],
+			[
+				"poll",
+				"poll_options"
+			],
+			[
+				"pol",
+				"poll_id"
+			],
+			[
+				"op",
+				"optionToAdd"
+			],
+			[
+				"po",
+				"pollToDelete"
+			],
+			[
+				"ti",
+				"title"
+			],
+			[
+				"to",
+				"toDelete"
+			],
+			[
+				"na",
+				"name"
+			],
+			[
+				"Poll",
+				"PollDataSeeder"
+			],
+			[
+				"Re",
+				"Request"
+			],
+			[
+				"succes",
+				"successful"
+			],
+			[
+				"pu",
+				"public"
+			],
+			[
+				"new",
+				"newtable"
+			],
+			[
+				"t",
+				"type	Attr"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/Http/Controllers/StudentController.php",
+			"settings":
+			{
+				"buffer_size": 2761,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/Http/Controllers/TeacherController.php",
+			"settings":
+			{
+				"buffer_size": 2919,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 528.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/matthiku/workspace/courses/Laravel/LumenAPI",
+		"/C/Users/matthiku/workspace/courses/Laravel/LumenAPI/.vagrant/machines",
+		"/C/Users/matthiku/workspace/courses/Laravel/LumenAPI/.vagrant/machines/default",
+		"/C/Users/matthiku/workspace/courses/Laravel/LumenAPI/.vagrant/machines/default/virtualbox",
+		"/C/Users/matthiku/workspace/courses/Laravel/LumenAPI/app",
+		"/C/Users/matthiku/workspace/courses/Laravel/LumenAPI/app/Http",
+		"/C/Users/matthiku/workspace/courses/Laravel/LumenAPI/app/Http/Controllers",
+		"/C/Users/matthiku/workspace/courses/Laravel/LumenAPI/database",
+		"/C/Users/matthiku/workspace/courses/Laravel/LumenAPI/database/factories",
+		"/C/Users/matthiku/workspace/courses/Laravel/LumenAPI/database/seeds"
+	],
+	"file_history":
+	[
+		"/C/Users/matthiku/workspace/courses/Laravel/LumenAPI/app/Student.php",
+		"/C/Users/matthiku/workspace/courses/Laravel/LumenAPI/app/Http/Controllers/CourseController.php",
+		"/C/Users/matthiku/workspace/courses/Laravel/LumenAPI/app/Http/Controllers/Controller.php",
+		"/C/Users/matthiku/workspace/courses/Laravel/LumenAPI/vendor/laravel/lumen-framework/src/Routing/Controller.php",
+		"/C/Users/matthiku/workspace/courses/Laravel/LumenAPI/vendor/laravel/lumen-framework/src/Routing/ValidatesRequests.php",
+		"/C/Users/matthiku/workspace/courses/Laravel/LumenAPI/database/factories/ModelFactory.php",
+		"/C/Users/matthiku/workspace/courses/Laravel/LumenAPI/app/Http/routes.php",
+		"/C/Users/matthiku/workspace/courses/Laravel/LumenAPI/app/Http/Controllers/CourseStudentController.php",
+		"/C/Users/matthiku/workspace/courses/Laravel/LumenAPI/app/Http/Controllers/TeacherCourseController.php",
+		"/C/Users/matthiku/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/matthiku/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/matthiku/workspace/courses/Laravel/LumenAPI/app/Http/Controllers/TeacherController.php",
+		"/C/Users/matthiku/workspace/courses/Laravel/LumenAPI/app/Http/Controllers/StudentController.php",
+		"/C/Users/matthiku/workspace/courses/Laravel/LumenAPI/database/seeds/DatabaseSeeder.php",
+		"/C/Users/matthiku/workspace/courses/Laravel/LumenAPI/database/migrations/2015_10_28_155613_create_course_student_table.php",
+		"/C/Users/matthiku/workspace/courses/Laravel/LumenAPI/database/migrations/2015_10_28_155529_create_courses_table.php",
+		"/C/Users/matthiku/workspace/courses/Laravel/LumenAPI/app/Course.php",
+		"/C/Users/matthiku/workspace/courses/Laravel/LumenAPI/database/migrations/2015_10_28_155417_create_teachers_table.php",
+		"/C/Users/matthiku/workspace/courses/Laravel/LumenAPI/database/migrations/2015_10_28_155514_create_students_table.php",
+		"/C/Users/matthiku/workspace/courses/Laravel/LumenAPI/app/models.txt",
+		"/C/Users/matthiku/workspace/courses/Laravel/LumenAPI/app/Teacher.php",
+		"/C/Users/matthiku/workspace/courses/Laravel/LumenAPI/bootstrap/app.php",
+		"/C/Users/matthiku/workspace/courses/Laravel/LumenAPI/.env",
+		"/C/Users/matthiku/workspace/courses/Laravel/LumenAPI/Homestead.yaml",
+		"/C/wamp/www/courses/angularJS/movieDB/karma.conf.js",
+		"/C/wamp/www/courses/angularJS/movieDB/app/components/paginate/paginate-filter_test.js",
+		"/C/wamp/www/courses/angularJS/movieDB/app/components/movie/movie-service_test.js",
+		"/C/wamp/www/courses/angularJS/cspotFront/app/index.html",
+		"/C/wamp/www/courses/angularJS/cspotFront/bower.json",
+		"/C/wamp/www/courses/angularJS/movieDB/app/app.js",
+		"/C/wamp/www/courses/angularJS/movieDB/app/genre/genre.js",
+		"/C/wamp/www/courses/angularJS/movieDB/app/catalog/catalog.js",
+		"/C/wamp/www/courses/angularJS/movieDB/app/components/movie/movie-service.js",
+		"/C/wamp/www/courses/angularJS/movieDB/app/index.html",
+		"/C/wamp/www/courses/angularJS/movieDB/app/app.css",
+		"/C/wamp/www/courses/angularJS/movieDB/app/movie/movie.js",
+		"/C/wamp/www/courses/angularJS/movieDB/app/movie/movie.html",
+		"/C/wamp/www/courses/angularJS/movieDB/app/catalog/catalog.html",
+		"/C/wamp/www/courses/angularJS/movieDB/app/components/paginate/paginate-filter.js",
+		"/C/wamp/www/courses/angularJS/movieDB/bower.json",
+		"/C/wamp/www/courses/angularJS/movieDB/app/json/movies.json",
+		"/C/wamp/www/courses/angularJS/movieDB/node_modules/.gitignore",
+		"/C/wamp/www/courses/angularJS/angular-seed/app/index.html",
+		"/C/wamp/www/courses/angularJS/angular-seed/app/controller.js",
+		"/C/wamp/www/courses/angularJS/angular-seed/app/app.css",
+		"/C/wamp/www/courses/angularJS/angular-seed/app/app.js",
+		"/C/wamp/www/courses/angularJS/angular-seed/bower.json",
+		"/C/wamp/www/cSpot/app/Http/Controllers/PlanController.php",
+		"/C/wamp/www/cSpot/app/Type.php",
+		"/C/wamp/www/cSpot/app/Plan.php",
+		"/C/wamp/www/cSpot/app/Item.php",
+		"/C/wamp/www/cSpot/app/Leader.php",
+		"/C/wamp/www/cSpot/app/Song.php",
+		"/C/wamp/www/cSpot/database/migrations/2015_10_15_095611_update_templates_table.php",
+		"/C/wamp/www/cSpot/database/migrations/2015_10_15_095651_update_types_table.php",
+		"/C/wamp/www/cSpot/database/migrations/2015_10_15_094756_update_items_table.php",
+		"/C/wamp/www/cSpot/database/migrations/2015_10_15_094952_update_songs_table.php",
+		"/C/wamp/www/cSpot/database/migrations/2015_10_15_093143_update_leaders_table.php",
+		"/C/wamp/www/cSpot/database/migrations/2015_10_15_094823_update_plans_table.php",
+		"/C/wamp/www/cSpot/database/migrations/2015_09_30_220935_create_dev_eecplans_database.php",
+		"/C/wamp/www/cSpot/app/Http/Controllers/PlanItemsController.php",
+		"/C/wamp/www/cSpot/app/Http/Controllers/ItemController.php",
+		"/C/wamp/www/courses/laravel/database/seeds/DatabaseSeeder.php",
+		"/C/wamp/www/courses/laravel/database/seeds/PaintingTableSeeder.php",
+		"/C/wamp/www/courses/laravel/app/Http/Controllers/AboutController.php",
+		"/C/wamp/www/courses/laravel/database/migrations/2015_10_12_135531_create_paintings.php",
+		"/C/wamp/www/courses/laravel/database/migrations/2015_10_12_141957_update_paintings.php",
+		"/C/wamp/www/courses/laravel/.env",
+		"/C/wamp/www/courses/laravel/app/Http/routes.php",
+		"/C/wamp/www/courses/laravel/app/Http/Kernel.php",
+		"/C/wamp/www/courses/laravel/app/Http/Middleware/MyMiddleware.php",
+		"/C/wamp/www/courses/laravel/public/css/main.css",
+		"/C/wamp/www/courses/laravel/resources/views/welcome.blade.php",
+		"/C/wamp/www/cSpot/config/app.php",
+		"/C/wamp/www/courses/bootstrap/ecommerce/index.html",
+		"/C/wamp/www/courses/bootstrap/ecommerce/less/style.less",
+		"/C/wamp/www/bootstrap/index.html",
+		"/C/wamp/www/bootstrap/css/style.css",
+		"/C/wamp/www/courses/myOwnApi/database/migrations/2015_10_02_141159_vehicles_table.php",
+		"/C/wamp/www/courses/myOwnApi/database/seeds/VehiclesSeed.php",
+		"/C/wamp/www/courses/myOwnApi/database/seeds/MakerSeed.php",
+		"/C/wamp/www/courses/myOwnApi/database/seeds/TypesSeed.php",
+		"/C/wamp/www/courses/myOwnApi/database/migrations/2015_09_18_141159_vehicles_table.php",
+		"/C/wamp/www/courses/myOwnApi/app/Type.php",
+		"/C/wamp/www/courses/myOwnApi/app/Vehicle.php",
+		"/C/wamp/www/courses/myOwnApi/database/seeds/DatabaseSeeder.php",
+		"/C/wamp/www/courses/myOwnApi/app/Http/Controllers/VehicleController.php",
+		"/C/wamp/www/courses/myOwnApi/database/migrations/2015_10_02_134925_create_types_table.php",
+		"/C/wamp/www/courses/myOwnApi/database/seeds/UsersSeed.php",
+		"/C/wamp/www/courses/myOwnApi/app/Http/Controllers/MakerVehiclesController.php",
+		"/C/wamp/www/cSpot/app/Http/routes.php",
+		"/C/wamp/www/cSpot/.env",
+		"/C/wamp/www/courses/chatty/app/Http/Controllers/StatusController.php",
+		"/C/wamp/www/courses/chatty/app/Models/User.php",
+		"/C/wamp/www/courses/chatty/resources/views/errors/404.blade.php",
+		"/C/wamp/www/courses/chatty/resources/views/timeline/partials/statuses.blade.php",
+		"/C/wamp/www/courses/chatty/resources/views/timeline/partials/statusUpdateForm.blade.php",
+		"/C/wamp/www/courses/chatty/app/Models/Status.php",
+		"/C/wamp/www/courses/chatty/app/Http/routes.php",
+		"/C/wamp/www/courses/chatty/app/Models/Likeable.php",
+		"/C/wamp/www/courses/chatty/database/migrations/2015_09_30_131228_create_likeable_table.php",
+		"/C/wamp/www/courses/chatty/app/Http/Controllers/ProfileController.php",
+		"/C/wamp/www/courses/chatty/resources/views/profile/index.blade.php",
+		"/C/wamp/www/courses/chatty/resources/views/timeline/index.blade.php",
+		"/C/wamp/www/courses/chatty/resources/views/templates/partials/navigation.blade.php",
+		"/C/wamp/www/courses/chatty/app/Http/Controllers/HomeController.php",
+		"/C/wamp/www/courses/chatty/storage/logs/laravel.log",
+		"/C/wamp/www/courses/chatty/resources/views/home.blade.php",
+		"/C/wamp/www/courses/chatty/database/migrations/2015_09_29_143843_create_statuses_table.php",
+		"/C/wamp/www/courses/chatty/app/Http/Controllers/FriendController.php",
+		"/C/wamp/www/courses/chatty/resources/views/friends/index.blade.php",
+		"/C/Users/matthiku/AppData/Roaming/Sublime Text 3/Packages/Emmet/Default (Windows).sublime-keymap",
+		"/C/Users/matthiku/AppData/Roaming/Sublime Text 3/Packages/Emmet/Emmet.sublime-settings",
+		"/C/wamp/www/courses/chatty/database/migrations/2015_09_28_150145_create_friends_table.php",
+		"/C/wamp/www/courses/chatty/database/migrations/2015_09_27_224002_create_users_table.php",
+		"/C/wamp/www/courses/chatty/resources/views/profile/edit.blade.php",
+		"/C/wamp/www/courses/chatty/resources/views/user/partials/userblock.blade.php",
+		"/C/wamp/www/courses/chatty/resources/views/search/results.blade.php",
+		"/C/wamp/www/courses/chatty/app/Http/Controllers/SearchController.php",
+		"/C/wamp/www/courses/chatty/resources/views/search/results.php",
+		"/C/wamp/www/courses/chatty/app/Http/Controllers/AuthController.php",
+		"/C/wamp/www/courses/chatty/app/Http/Middleware/Authenticate.php",
+		"/C/wamp/www/courses/chatty/app/Http/Middleware/RedirectIfAuthenticated.php",
+		"/C/wamp/www/courses/chatty/resources/views/auth/signin.blade.php",
+		"/C/wamp/www/courses/chatty/config/app.php",
+		"/C/wamp/www/courses/chatty/config/auth.php",
+		"/C/wamp/www/courses/chatty/resources/views/auth/signup.blade.php",
+		"/C/wamp/www/courses/chatty/.env"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"student",
+			"result",
+			"student",
+			"teacher",
+			"teacher_id",
+			"career",
+			"name",
+			"Student",
+			"student",
+			"data",
+			"course",
+			"Course",
+			"data",
+			"TeacherCourseController",
+			"teachers",
+			"TeacherController",
+			"Student",
+			"students",
+			"tudents",
+			"Teacher",
+			"teachers",
+			"teacher",
+			"movie",
+			"catalog",
+			"leave",
+			"taskList",
+			"input-group",
+			"1",
+			"	public function getTeacher()\n	{\n		return Leader::find($this->teacher_id)->name;\n	}\n\n",
+			"t",
+			"tabtext",
+			"premium",
+			"references",
+			"status",
+			"likeable_id",
+			"post",
+			"empty",
+			"first_name",
+			"email",
+			"username",
+			"password",
+			"email",
+			"user",
+			"Album",
+			"];",
+			"function find",
+			"::",
+			"belongs",
+			"polloptions",
+			"poll_option",
+			"polloption",
+			"ool",
+			"pool",
+			"ool",
+			"}}",
+			"{{",
+			"!",
+			"        ",
+			"container"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"{{ $user->location }}",
+			"->",
+			"poll_options",
+			"polloption",
+			"poll_option",
+			"oll",
+			"Count: {{ count($books) }}",
+			"!!}",
+			"{!!"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/Http/Controllers/StudentController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2761,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2492,
+								2462
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"auto_complete": false,
+							"bh_regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1566.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/Http/Controllers/TeacherController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2919,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2432,
+								2461
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"auto_complete": false,
+							"bh_regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1511.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 118.0
+	},
+	"pinned_build_system": "",
+	"project": "LumenAPI.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"controler",
+				"vendor\\laravel\\lumen-framework\\src\\Routing\\Controller.php"
+			],
+			[
+				"notfound",
+				"vendor\\symfony\\http-kernel\\Exception\\NotFoundHttpException.php"
+			],
+			[
+				"eloquent",
+				"vendor\\laravel\\framework\\src\\Illuminate\\Database\\Eloquent\\Model.php"
+			],
+			[
+				"model",
+				"vendor\\laravel\\framework\\src\\Illuminate\\Database\\Eloquent\\Model.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 305.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
