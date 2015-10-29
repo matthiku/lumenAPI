@@ -39,6 +39,6 @@ $app->delete( '/teachers/{teachers}/courses/{courses}', 'TeacherCourseController
 
 
 $app->get(    '/courses/{courses}/students',            'CourseStudentController@index');
-$app->post(   '/courses/{courses}/students',            'CourseStudentController@store');
+$app->post(   '/courses/{courses}/students/{students}', 'CourseStudentController@store');
 $app->delete( '/courses/{courses}/students/{students}', 'CourseStudentController@destroy');
 

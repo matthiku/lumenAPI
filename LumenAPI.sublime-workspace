@@ -415,22 +415,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "app/Http/Controllers/StudentController.php",
-			"settings":
-			{
-				"buffer_size": 2761,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "app/Http/Controllers/TeacherController.php",
-			"settings":
-			{
-				"buffer_size": 2919,
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -473,19 +457,13 @@
 	},
 	"expanded_folders":
 	[
-		"/C/Users/matthiku/workspace/courses/Laravel/LumenAPI",
-		"/C/Users/matthiku/workspace/courses/Laravel/LumenAPI/.vagrant/machines",
-		"/C/Users/matthiku/workspace/courses/Laravel/LumenAPI/.vagrant/machines/default",
-		"/C/Users/matthiku/workspace/courses/Laravel/LumenAPI/.vagrant/machines/default/virtualbox",
-		"/C/Users/matthiku/workspace/courses/Laravel/LumenAPI/app",
-		"/C/Users/matthiku/workspace/courses/Laravel/LumenAPI/app/Http",
-		"/C/Users/matthiku/workspace/courses/Laravel/LumenAPI/app/Http/Controllers",
-		"/C/Users/matthiku/workspace/courses/Laravel/LumenAPI/database",
-		"/C/Users/matthiku/workspace/courses/Laravel/LumenAPI/database/factories",
-		"/C/Users/matthiku/workspace/courses/Laravel/LumenAPI/database/seeds"
+		"/C/Users/Matthias/workspace/courses/laravel/lumenAPI"
 	],
 	"file_history":
 	[
+		"/C/Users/Matthias/workspace/courses/laravel/lumenAPI/.gitignore",
+		"/C/Users/Matthias/workspace/courses/laravel/lumenAPI/app/Http/Controllers/TeacherController.php",
+		"/C/Users/Matthias/workspace/courses/laravel/lumenAPI/app/Http/Controllers/StudentController.php",
 		"/C/Users/matthiku/workspace/courses/Laravel/LumenAPI/app/Student.php",
 		"/C/Users/matthiku/workspace/courses/Laravel/LumenAPI/app/Http/Controllers/CourseController.php",
 		"/C/Users/matthiku/workspace/courses/Laravel/LumenAPI/app/Http/Controllers/Controller.php",
@@ -610,10 +588,7 @@
 		"/C/wamp/www/courses/chatty/app/Http/Middleware/Authenticate.php",
 		"/C/wamp/www/courses/chatty/app/Http/Middleware/RedirectIfAuthenticated.php",
 		"/C/wamp/www/courses/chatty/resources/views/auth/signin.blade.php",
-		"/C/wamp/www/courses/chatty/config/app.php",
-		"/C/wamp/www/courses/chatty/config/auth.php",
-		"/C/wamp/www/courses/chatty/resources/views/auth/signup.blade.php",
-		"/C/wamp/www/courses/chatty/.env"
+		"/C/wamp/www/courses/chatty/config/app.php"
 	],
 	"find":
 	{
@@ -716,189 +691,8 @@
 	"groups":
 	[
 		{
-			"selected": 1,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "app/Http/Controllers/StudentController.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2761,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								2492,
-								2462
-							]
-						],
-						"settings":
-						{
-							"BracketHighlighterBusy": false,
-							"auto_complete": false,
-							"bh_regions":
-							[
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content"
-							],
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 1566.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "app/Http/Controllers/TeacherController.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2919,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								2432,
-								2461
-							]
-						],
-						"settings":
-						{
-							"BracketHighlighterBusy": false,
-							"auto_complete": false,
-							"bh_regions":
-							[
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content"
-							],
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 1511.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				}
 			]
 		}
 	],
