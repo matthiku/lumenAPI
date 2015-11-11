@@ -42,3 +42,8 @@ $app->get(    '/courses/{courses}/students',            'CourseStudentController
 $app->post(   '/courses/{courses}/students/{students}', 'CourseStudentController@store');
 $app->delete( '/courses/{courses}/students/{students}', 'CourseStudentController@destroy');
 
+
+// OAuth routes
+$app->post('/oauth/access_token', function() use ($app) {
+	return response()->json( $app->make('oauth2-server.authorizer')->issueAccessToken() );
+});

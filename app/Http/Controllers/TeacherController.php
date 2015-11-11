@@ -7,6 +7,20 @@ use App\Teacher;
 use Illuminate\Http\Request;
 
 
+
+/* 
+
+This controller deals with the following routes:
+
+$app->get(    '/teachers',            'TeacherController@index');
+$app->post(   '/teachers',            'TeacherController@store');
+$app->get(    '/teachers/{teachers}', 'TeacherController@show');
+$app->put(    '/teachers/{teachers}', 'TeacherController@update');
+$app->patch(  '/teachers/{teachers}', 'TeacherController@update');
+$app->delete( '/teachers/{teachers}', 'TeacherController@destroy');
+
+*/
+
 class TeacherController extends Controller
 {
 

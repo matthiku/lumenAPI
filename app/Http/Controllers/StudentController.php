@@ -9,6 +9,20 @@ use App\Student;
 use Illuminate\Http\Request;
 
 
+
+/* 
+
+This controller deals with the following routes:
+
+$app->get(    '/students',            'StudentController@index');
+$app->post(   '/students',            'StudentController@store');
+$app->get(    '/students/{students}', 'StudentController@show');
+$app->put(    '/students/{students}', 'StudentController@update');
+$app->patch(  '/students/{students}', 'StudentController@update');
+$app->delete( '/students/{students}', 'StudentController@destroy');
+
+*/
+
 class StudentController extends Controller
 {
 
@@ -42,7 +56,7 @@ class StudentController extends Controller
 
 
 
-    // create a new resource
+    // add a new student
     //
     public function store(Request $request) {
 
@@ -56,7 +70,7 @@ class StudentController extends Controller
 
 
 
-    // UPDATE an existing resource
+    // UPDATE an existing student
     //
     public function update(Request $request, $student_id) {
 

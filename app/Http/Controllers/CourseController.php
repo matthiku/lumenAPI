@@ -4,6 +4,16 @@ use Laravel\Lumen\Routing\Controller as BaseController;
 
 use App\Course;
 
+
+/* 
+
+This controller deals with the following routes:
+
+$app->get(    '/courses',             'CourseController@index');
+$app->get(    '/courses/{courses}',   'CourseController@show');
+
+*/
+
 class CourseController extends Controller
 {
 
